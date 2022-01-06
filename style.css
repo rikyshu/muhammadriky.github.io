@@ -1,0 +1,36 @@
+body {
+  background-color: #eeeeee;
+}
+
+nav {
+  background-color: #222831;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #393e46;
+}
+
+h1.display-4 {
+  color: white;
+}
+
+p.lead {
+  color: white;
+}
+
+#projects {
+  background-color: #393e46;
+}
+
+.projects {
+  color: white;
+}
+
+footer {
+  background-color: #222831;
+}
+
+section {
+  scroll-margin-top: 70px;
+}
